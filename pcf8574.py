@@ -1,5 +1,5 @@
-# Copyright (C) 2017 Dan Halbert
-# Adapted from https://github.com/dbrgn/RPLCD, Copyright (C) 2013-2016 Danilo Bargen
+# Copyright (C) 2019 Jack Timmins
+# Adapted from https://github.com/dhalbert/CircuitPython_LCD, Copyright (C) 2017 Dan Halbert
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of
 # this software and associated documentation files (the "Software"), to deal in
